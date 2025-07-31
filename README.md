@@ -26,7 +26,7 @@ If you want to build the .exe file from the Python script:
 
 Open Command Prompt and run:
 
-```pip install pyinstaller psutil```
+```pip install pyinstaller```
 
 2. Create the .exe File
 
